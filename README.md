@@ -6,5 +6,5 @@ In this assignment we chose
 
 The links are for the game, in each of them there is the jumping feature of the player.
 <br />
-[Link to the extension of the lesson facility](https://sivannamma.itch.io/) <br />
-[Link to building classroom](https://sivannamma.itch.io/)
+[Link to the extension of the lesson facility](https://eladwd.itch.io/facility3d) <br />
+[Link to building classroom](https://eladwd.itch.io/university3d)
